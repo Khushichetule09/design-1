@@ -8,7 +8,7 @@ Clean UI. Responsive layout. Component-based architecture.
 
 ## 🔗 Link
 
-(https://design-1-iota.vercel.app/)
+https://design-1-iota.vercel.app/
 
 ---
 
